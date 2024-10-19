@@ -6,11 +6,15 @@
 
 <br /><br />
 
-<img src="./img/img-01.png" min-width="200" max-width="200" width="200" align="right" alt="Perfil">
+<img src="./img/img-02.png" min-width="200" max-width="200" width="200" align="right" alt="Perfil">
 
 ## <b>Bio</b>
 
-Sua bio aqui... 🐶. <br />
+Fale um pouco sobre você, hobbies, etc. <br />
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, fugiat :brazil:
+deserunt quaerat totam ea dolores quibusdam unde accusantium sapiente optio
+temporibus vero dolore magni magnam assumenda ipsa aspernatur laudantium. 🎮
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit eos harum vitae odio accusantium at laborum aperiam ut reiciendis fuga officiis autem eveniet minima cupiditate praesentium ipsa, nihil aspernatur. 🐶
 
 <br /><br />
 
