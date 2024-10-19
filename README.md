@@ -1,2 +1,1 @@
-# readmes
-Readmes - Devs
+![logo Rocketseat](cover.png)
